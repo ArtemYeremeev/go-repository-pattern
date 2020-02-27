@@ -2,7 +2,7 @@ package infrastructure
 
 import (
 	"database/sql"
-	"go-repository-pattern/interfaces"
+	"github.com/ArtemYeremeev/go-repository-pattern/interfaces"
 )
 
 type DBHandler struct {

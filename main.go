@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"go-repository-pattern/controllers"
+	"github.com/ArtemYeremeev/go-repository-pattern/controllers"
 
 	"github.com/gorilla/mux"
 )

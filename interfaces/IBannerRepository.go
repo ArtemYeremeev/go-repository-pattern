@@ -1,7 +1,7 @@
 package interfaces
 
 import (
-	"go-repository-pattern/models"
+	"github.com/ArtemYeremeev/go-repository-pattern/models"
 )
 
 // IBannerRepository descrybes structure of banners repository

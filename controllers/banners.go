@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"encoding/json"
-	"go-repository-pattern/interfaces"
+	"github.com/ArtemYeremeev/go-repository-pattern/interfaces"
 	"net/http"
 )
 

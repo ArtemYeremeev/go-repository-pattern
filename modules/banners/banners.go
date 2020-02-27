@@ -2,8 +2,8 @@ package banners
 
 import (
 	"fmt"
-	"go-repository-pattern/interfaces"
-	"go-repository-pattern/models"
+	"github.com/ArtemYeremeev/go-repository-pattern/interfaces"
+	"github.com/ArtemYeremeev/go-repository-pattern/models"
 )
 
 // BannerRepository describes structure of banner repository
